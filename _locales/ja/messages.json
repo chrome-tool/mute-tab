@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "ミュート・タブ"
+    },
+    "extensionDescription": {
+      "message": "Chromeブラウザのタブをミュートする拡張ツール。"
+    },
+    "muteUnmuteTab": {
+      "message": "現在のタブのミュート／ミュート解除"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "全タブのミュート／ミュート解除"
+    }
+  }
+  

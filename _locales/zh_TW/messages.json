@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "靜音 Tab"
+    },
+    "extensionDescription": {
+      "message": "用於靜音Chrome瀏覽器Tab的擴展工具。"
+    },
+    "muteUnmuteTab": {
+      "message": "當前Tab 靜音/取消靜音"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "所有Tab 靜音/取消靜音"
+    }
+  }
+  

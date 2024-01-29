@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "Немые вкладки"
+    },
+    "extensionDescription": {
+      "message": "Расширение для отключения звука во вкладках браузера Chrome."
+    },
+    "muteUnmuteTab": {
+      "message": "Отключение/приглушение звука текущей вкладки"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "Отключение/приглушение звука всех вкладок"
+    }
+  }
+  

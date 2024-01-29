@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "Onglet Mute"
+    },
+    "extensionDescription": {
+      "message": "Outil d'extension pour mettre en sourdine les onglets du navigateur Chrome."
+    },
+    "muteUnmuteTab": {
+      "message": "Mute / Unmute Onglet actuel"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "Mute / Unmute Tous les onglets"
+    }
+  }
+  

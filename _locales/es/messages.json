@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "Mute Tabs"
+    },
+    "extensionDescription": {
+      "message": "Extension tool to mute Chrome browser tabs."
+    },
+    "muteUnmuteTab": {
+      "message": "Mute / Unmute Current Tab"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "Mute / Unmute All Tabs"
+    }
+  }
+  

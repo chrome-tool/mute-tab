@@ -1,0 +1,15 @@
+{
+    "extensionName": {
+      "message": "탭 음소거"
+    },
+    "extensionDescription": {
+      "message": "Chrome 브라우저 탭을 음소거하는 확장 도구."
+    },
+    "muteUnmuteTab": {
+      "message": "현재 음소거/음소거 해제 탭"
+    },
+    "muteUnmuteAllTabs": {
+      "message": "모든 탭 음소거/음소거 해제"
+    }
+  }
+  
